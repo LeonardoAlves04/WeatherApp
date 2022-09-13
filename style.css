@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:#2F4F4F
+}
+
+.card{
+    background-color: #A9A9A9;
+    margin-top: 18vh;
+}
+
+.city{
+font-size: 32px; 
+}
+
+.date{
+font-size: 16px;
+}
+
+.container-temp{
+display: flex;
+justify-content: center;
+border-radius: 5px;
+cursor: pointer;
+font-size: 80px;
+font-weight: 600;
+text-shadow: 3px 6px rgba(0, 0, 0, 0.4);
+}
+
+.weather{
+font-size: 32px;
+}
+
+.low-high{
+font-size: 22px;
+}
+
+.card-header{
+    font-size: 25px;
+}
+
+.input-group{
+    color: white;
+}
+
+.form-control{
+    background-color: #A9A9A9;
+}
