@@ -1,6 +1,6 @@
 Esse foi um projeto que gostei muito de fazer, pois foi a minha primeira vez usando ( ou integrando) uma api em um projeto. É um web app para consultar o clima de qualquer cidade (testei cidades da China,Brasil, USA, Europa e deu certo). Usei a api: Weather API - OpenWeather. E também possui uma opção do geolocalizador, ou seja, assim que você abre a página aparece a opção do navegador acessar sua localização pra já mostrar o clima da sua cidade. Foi usado somente HTML,CSS e JS. Foi um projeto muito legal e me ajudou a entender sobre api, tentarei trazer mais projetos utilizando api mais frente. Segue o link para você testar e também algumas fotos do projeto.
 
-Link para ver o projeto na web: https://leonardoalves04.github.io/WeatherApp/
+Link para ver o projeto: https://leonardoalves04.github.io/WeatherApp/
 
 Fotos do projeto: 
 
